@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>Java Full-Stack developer | MERN Stack</h4>
 
 - 🔭 I’m currently working on a Java Project
-- 🌱 I’m Interested to work on Web Development
+- 🌱 I’m Interested to work on Web development
 
 - 📫 How to reach me: ansarisaif252@gmail.com
 
