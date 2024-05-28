@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Saif Ansari
 ======================================================================================================================================
-<h4>Java Full-Stack developer | MERN Stack</h4>
+<h4>Java Full-Stack developer</h4>
 
 - 🔭 I’m currently working on a Java Project
 - 🌱 I’m Interested to work on Web development
